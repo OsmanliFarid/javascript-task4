@@ -1,4 +1,4 @@
-let num = +prompt("bir reem yaz")
+let num = +prompt("bir reqem yaz")
 
 if(num < 10){
     console.log("2 reqemli eded yazin");
